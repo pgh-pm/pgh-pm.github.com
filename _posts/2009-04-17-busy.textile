@@ -1,0 +1,8 @@
+---
+layout: post
+title: Busy not Dead
+---
+
+h1. {{ page.title }}
+
+The Pittsburhg Perl Mongers are not Dormant or Dead.  We are busy working on <a href="http://yapc10.org">YAPC|10</a>.
